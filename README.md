@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm TOVTK</h1>
-<h3 align="center">A designer from Viet Nam, im learning FE</h3>
+<h3 align="center">A designer from Viet Nam and I'm learning FE</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
