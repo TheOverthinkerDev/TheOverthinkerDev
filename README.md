@@ -5,14 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=4DB6AC&center=true&vCenter=true&width=420&lines=Design+%2B+Code+%3D+❤️;Currently+Learning+React..." alt="Typing Animation" />
 </p>
 
-<!-- 🌊 SVG WAVE ANIMATION -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="">
-</picture>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/main/assets/wave.svg" width="100%" />
-</div>
-
 ---
 
 ## 🛠️ Tools & Technologies
@@ -40,7 +32,4 @@
 
 ---
 
-<!-- 🌠 SHOOTING STARS SVG BACKGROUND -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="95%" />
-</div>
+<p align="center"><em>“Design is intelligence made visible.”</em> — Alina Wheeler</p>
