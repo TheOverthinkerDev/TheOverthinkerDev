@@ -1,54 +1,63 @@
-<div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9C27B0,100:3F51B5&height=200&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20TOVTK&fontSize=40&fontColor=ffffff&fontAlignY=40"/>
-
-</div>
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px; max-width: 960px; margin: auto;">
-
-  <div style="padding: 20px; border: 1px solid #ccc; border-radius: 12px; text-align: center;">
-    <h3>🚀 I'm Currently Learning</h3>
-    <p>HTML<br/>CSS<br/>JavaScript<br/>Planning to dive into React</p>
-  </div>
-
-  <div style="padding: 20px; border: 1px solid #ccc; border-radius: 12px; text-align: center;">
-    <h3>🔧 Languages and Tools</h3>
-    <p>
-      <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
-      </a>
-      <a href="https://www.photoshop.com/en" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
-      </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-      </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-      </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-      </a>
-    </p>
-  </div>
-
-  <div style="padding: 20px; border: 1px solid #ccc; border-radius: 12px; text-align: center;">
-    <h3>🌟 My Goals</h3>
-    <p>
-      🔹 Improve UI/UX design skills<br/>
-      🔹 Master modern JavaScript and front-end frameworks<br/>
-      🔹 Build and publish a personal portfolio website<br/>
-      🔹 Work on real-world international projects
-    </p>
-  </div>
-
-  <div style="padding: 20px; border: 1px solid #ccc; border-radius: 12px; text-align: center;">
-    <h3>📌 Fun Fact</h3>
-    <p>I enjoy merging design and code to craft unique digital experiences ✨</p>
-  </div>
-
-</div>
+<h1 align="center">Hi 👋, I'm Vinh Vu</h1>
+<p align="center">
+  ✨ Welcome to my GitHub! Explore my projects, ideas, and experiments.<br/>
+  🚀 Passionate about AI, product design & web development.
+</p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3F51B5,100:9C27B0&height=120&section=footer"/>
+  <a href="https://your-website.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  <a href="mailto:you@example.com">
+    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
+
+---
+
+## 🌱 About Me
+- 🧑‍💻 I'm currently working on: `AI product prototypes`, `side project UX`
+- 📚 Learning more about: `LLMs`, `Next.js`, `Vector Databases`
+- 💡 Looking to collaborate on meaningful and creative tools
+- 📝 Writing thoughts at: [vinh.blog](https://your-blog-link.com)
+
+---
+
+## 🛠️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+
+---
+
+## 📌 Projects
+
+| Project | Description | Stack |
+|--------|-------------|--------|
+| [AI Journal](https://github.com/your-repo) | A voice-to-thought journaling app powered by OpenAI Whisper | `Next.js`, `Supabase`, `Tailwind` |
+| [DevLinkr](https://github.com/your-repo) | Discover and share developer tools with ease | `React`, `Firebase`, `Framer Motion` |
+| [Sketch2Code](https://github.com/your-repo) | Turn your wireframes into functional HTML/CSS | `Python`, `OpenCV`, `Streamlit` |
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vinh23-vu-vv&show_icons=true&theme=tokyonight" alt="Vinh's GitHub stats" />
+</p>
+
+---
+
+## 📬 Let's Connect!
+
+Feel free to reach out or just say hi — I'm always open to interesting conversations.  
+🧠 *“Stay curious. Build boldly.”*
+
