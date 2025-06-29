@@ -1,63 +1,74 @@
-<h1 align="center">Hi 👋, I'm Vinh Vu</h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#4db6ac">TOVTK</span></h1>
+<h3 align="center">🎨 A designer from Vietnam diving into Front-End Development</h3>
+
 <p align="center">
-  ✨ Welcome to my GitHub! Explore my projects, ideas, and experiments.<br/>
-  🚀 Passionate about AI, product design & web development.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4DB6AC&center=true&vCenter=true&width=435&lines=Design+%2B+Code+%3D+❤️;Learning+React+soon...;Building+my+digital+journey!" alt="Typing SVG" />
 </p>
 
+---
+
+## 🛠️ Tools & Technologies
+
 <div align="center">
-  <a href="https://your-website.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" />
+  <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
   </a>
-  <a href="mailto:you@example.com">
-    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.photoshop.com/en" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
   </a>
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
 </div>
 
 ---
 
-## 🌱 About Me
-- 🧑‍💻 I'm currently working on: `AI product prototypes`, `side project UX`
-- 📚 Learning more about: `LLMs`, `Next.js`, `Vector Databases`
-- 💡 Looking to collaborate on meaningful and creative tools
-- 📝 Writing thoughts at: [vinh.blog](https://your-blog-link.com)
-
----
-
-## 🛠️ Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
-
----
-
-## 📌 Projects
-
-| Project | Description | Stack |
-|--------|-------------|--------|
-| [AI Journal](https://github.com/your-repo) | A voice-to-thought journaling app powered by OpenAI Whisper | `Next.js`, `Supabase`, `Tailwind` |
-| [DevLinkr](https://github.com/your-repo) | Discover and share developer tools with ease | `React`, `Firebase`, `Framer Motion` |
-| [Sketch2Code](https://github.com/your-repo) | Turn your wireframes into functional HTML/CSS | `Python`, `OpenCV`, `Streamlit` |
-
----
-
-## 📈 GitHub Stats
+## 🚀 Currently Learning
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinh23-vu-vv&show_icons=true&theme=tokyonight" alt="Vinh's GitHub stats" />
+  <strong>Front-End Development</strong> using <code>HTML</code>, <code>CSS</code>, and <code>JavaScript</code>,<br/>
+  and planning to explore <code>React.js</code> very soon!
 </p>
 
 ---
 
-## 📬 Let's Connect!
+## 🎯 Goals for 2025
 
-Feel free to reach out or just say hi — I'm always open to interesting conversations.  
-🧠 *“Stay curious. Build boldly.”*
+- 🌟 Improve UI/UX design thinking & best practices  
+- 📚 Master JavaScript and modern front-end frameworks  
+- 🖥️ Build and launch my **portfolio website**  
+- 🌏 Work on **international projects** and real-world apps  
 
+---
+
+## 📌 Fun Fact
+
+<p align="center">
+  I love blending design & code to craft interactive and delightful user experiences.  
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center"><em>“Design is intelligence made visible.”</em> — Alina Wheeler</p>
