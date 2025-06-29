@@ -2,7 +2,7 @@
 <h3 align="center">🎨 A designer from Vietnam diving into Front-End Development</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=4DB6AC&center=true&vCenter=true&width=420&lines=Design+%2B+Code+%3D+❤️;Currently+Learning+React..." alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=6667AB&center=true&vCenter=true&width=420&lines=Design+%2B+Code+%3D+❤️;Currently+Learning+React..." alt="Typing Animation" />
 </p>
 
 ---
