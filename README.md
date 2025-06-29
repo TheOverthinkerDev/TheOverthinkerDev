@@ -2,13 +2,20 @@
 <h3 align="center">🎨 A designer from Vietnam diving into Front-End Development</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4DB6AC&center=true&vCenter=true&width=435&lines=Design+%2B+Code+%3D+❤️;Learning+React+soon...;Building+my+digital+journey!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=4DB6AC&center=true&vCenter=true&width=420&lines=Design+%2B+Code+%3D+❤️;Currently+Learning+React..." alt="Typing Animation" />
 </p>
+
+<!-- 🌊 SVG WAVE ANIMATION -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="">
+</picture>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/main/assets/wave.svg" width="100%" />
+</div>
 
 ---
 
 ## 🛠️ Tools & Technologies
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,photoshop,illustrator" alt="Tech stack" />
 </div>
@@ -16,37 +23,24 @@
 ---
 
 ## 🚀 Currently Learning
-
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding animation" />
-</p>
-
-<p align="center">
-  <strong>Front-End Development</strong> using <code>HTML</code>, <code>CSS</code>, and <code>JavaScript</code>,<br/>
-  and planning to explore <code>React.js</code> very soon!
+  <strong>Front-End Development</strong> using <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code><br/>
+  Planning to dive into <code>React.js</code> next!
 </p>
 
 ---
 
 ## 🎯 Goals for 2025
-
-- 🌟 Improve UI/UX design thinking & best practices  
-- 📚 Master JavaScript and modern front-end frameworks  
-- 🖥️ Build and launch my **portfolio website**  
-- 🌏 Work on **international projects** and real-world apps  
-
----
-
-## 📌 Fun Fact
-
-<p align="center">
-  I love blending design & code to craft interactive and delightful user experiences.  
-</p>
+<ul>
+  <li>🌟 Improve UI/UX design thinking & best practices</li>
+  <li>📚 Master JavaScript and modern front-end frameworks</li>
+  <li>🖥️ Build and launch my personal portfolio website</li>
+  <li>🌏 Join international real-world projects</li>
+</ul>
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200" alt="Design animation" />
-</p>
-
-<p align="center"><em>“Design is intelligence made visible.”</em> — Alina Wheeler</p>
+<!-- 🌠 SHOOTING STARS SVG BACKGROUND -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="95%" />
+</div>
