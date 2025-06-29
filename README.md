@@ -6,12 +6,12 @@
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px; max-width: 960px; margin: auto;">
 
-  <div align="center" style="padding: 20px; border: 1px solid #ccc; border-radius: 12px;">
+  <div style="padding: 20px; border: 1px solid #ccc; border-radius: 12px; text-align: center;">
     <h3>🚀 I'm Currently Learning</h3>
-    <p>HTML • CSS • JavaScript • Planning to dive into React</p>
+    <p>HTML<br/>CSS<br/>JavaScript<br/>Planning to dive into React</p>
   </div>
 
-  <div align="center" style="padding: 20px; border: 1px solid #ccc; border-radius: 12px;">
+  <div style="padding: 20px; border: 1px solid #ccc; border-radius: 12px; text-align: center;">
     <h3>🔧 Languages and Tools</h3>
     <p>
       <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
@@ -32,17 +32,17 @@
     </p>
   </div>
 
-  <div align="center" style="padding: 20px; border: 1px solid #ccc; border-radius: 12px;">
+  <div style="padding: 20px; border: 1px solid #ccc; border-radius: 12px; text-align: center;">
     <h3>🌟 My Goals</h3>
-    <ul style="list-style-type: none; padding: 0;">
-      <li>🔹 Improve UI/UX design skills</li>
-      <li>🔹 Master modern JavaScript and front-end frameworks</li>
-      <li>🔹 Build and publish a personal portfolio website</li>
-      <li>🔹 Work on real-world international projects</li>
-    </ul>
+    <p>
+      🔹 Improve UI/UX design skills<br/>
+      🔹 Master modern JavaScript and front-end frameworks<br/>
+      🔹 Build and publish a personal portfolio website<br/>
+      🔹 Work on real-world international projects
+    </p>
   </div>
 
-  <div align="center" style="padding: 20px; border: 1px solid #ccc; border-radius: 12px;">
+  <div style="padding: 20px; border: 1px solid #ccc; border-radius: 12px; text-align: center;">
     <h3>📌 Fun Fact</h3>
     <p>I enjoy merging design and code to craft unique digital experiences ✨</p>
   </div>
