@@ -17,7 +17,7 @@
 ## 🚀 Currently Learning
 <p align="center">
   <strong>Front-End Development</strong> using <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code><br/>
-  Planning to dive into <code>Get a job</code>
+  Planning to <code>Get a job</code>
 </p>
 
 ---
