@@ -2,7 +2,7 @@
 <h3 align="center">🎨 A designer from Vietnam diving into Front-End Development</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=6667AB&center=true&vCenter=true&width=420&lines=Design+%2B+ChatGPT+%3D+VibeCoder❤️;Currently+Learning+JavaScript..." alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=6667AB&center=true&vCenter=true&width=420&lines=Designer+%2B+ChatGPT+%3D+VibeCoder❤️;Currently+Learning+JavaScript..." alt="Typing Animation" />
 </p>
 
 ---
@@ -17,7 +17,7 @@
 ## 🚀 Currently Learning
 <p align="center">
   <strong>Front-End Development</strong> using <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code><br/>
-  Planning to dive into <code>React.js</code> next!
+  Planning to dive into <code>Get a job</code>
 </p>
 
 ---
@@ -27,7 +27,6 @@
   <li>🌟 Improve UI/UX design thinking & best practices</li>
   <li>📚 Master JavaScript and modern front-end frameworks</li>
   <li>🖥️ Build and launch my personal portfolio website</li>
-  <li>🌏 Join international real-world projects</li>
 </ul>
 
 ---
